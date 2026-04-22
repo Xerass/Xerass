@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Jomar Jake Mapa 👽</h1>
   
   <a href="https://github.com/Xerass">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student;Aspiring+Data+Scientist;AI+%26+Systems+Engineer;Idk,+currently+vibing+out." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student;Aspiring+Data+Scientist;AI+%26+Software+Engineer;Idk,+currently+vibing+out." alt="Typing SVG" />
   </a>
   <br>
   <p><i>Whether I am architecting multimodal diagnostic models, extracting biological signals from genomic data, or building foundational deep learning algorithms from the ground up in pure C, I am driven by understanding the absolute core of how intelligent systems work.</i></p>
@@ -50,7 +50,6 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 
 **Data Architecture** <p>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
