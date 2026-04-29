@@ -14,23 +14,17 @@
 
 <details>
 <summary><b>🤖 Applied Artificial Intelligence</b></summary>
-
 I design complex, multi-agent AI pipelines and engineer robust predictive models designed to handle highly imbalanced or synthesized data.
-
 </details>
 
 <details>
 <summary><b>📊 Data Engineering & Intelligence</b></summary>
-
 I automate highly scalable ETL workflows, map relationships using graph databases, and translate massive datasets into strategic, executive-level insights.
-
 </details>
 
 <details>
 <summary><b>🧬 Getting into Bioinformatics</b></summary>
-
 I build machine learning pipelines to process high-dimensional clinical arrays and isolate critical discriminatory biomarkers for disease detection.
-
 </details>
 
 <br>
@@ -38,7 +32,6 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 ### 💻 Tech Stack & Tools
 
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,7 +42,6 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 </p>
 
 **Machine Learning & AI**
-
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -58,7 +50,6 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 </p>
 
 **Data Architecture**
-
 <p>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -73,7 +64,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 > *jupyter bloat is real.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xerass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xerass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerass&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
