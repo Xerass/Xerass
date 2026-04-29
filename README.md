@@ -64,8 +64,16 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 > *jupyter bloat is real.*
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xerass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerass&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xerass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerass&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
