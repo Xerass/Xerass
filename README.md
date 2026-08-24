@@ -70,7 +70,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 ```console
 xerass@github:~$ gh profile --summary
 
-  (waiting for first workflow run — Actions tab → "Update README stats" → Run workflow)
+  
 ```
 <!--STATS:END-->
 
