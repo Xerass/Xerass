@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Jomar Jake Mapa 👽</h1>
-  
+
   <a href="https://github.com/Xerass">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student;Aspiring+Data+Scientist;AI+%26+Software+Engineer;Idk,+currently+vibing+out." alt="Typing SVG" />
   </a>
@@ -32,6 +32,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 ### 💻 Tech Stack & Tools
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -42,6 +43,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 </p>
 
 **Machine Learning & AI**
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -50,6 +52,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 </p>
 
 **Data Architecture**
+
 <p>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -61,12 +64,15 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 
 ### ⁉️ GitHub Stats
 
-> *jupyter bloat is real.*
+> *jupyter bloat is real — so it's excluded below.*
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xerass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerass&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+<!--STATS:START-->
+```console
+xerass@github:~$ gh profile --summary
+
+  (waiting for first workflow run — Actions tab → "Update README stats" → Run workflow)
+```
+<!--STATS:END-->
 
 <br>
 
