@@ -64,7 +64,7 @@ I build machine learning pipelines to process high-dimensional clinical arrays a
 
 ### ⁉️ GitHub Stats
 
-> *jupyter bloat is real — so it's excluded below.*
+> *jupyter literally ate up 98% of all my commited lines, let's skip it.*
 
 <!--STATS:START-->
 ```console
