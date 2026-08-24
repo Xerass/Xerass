@@ -91,13 +91,12 @@ xerass@github:~$ tree -L 2 ~/stack
 
 ### `$ gh stats`
 
-> *jupyter bloat is real — so it's excluded below.*
+> *jupyter ate up 98% of my lines, so let's stop that*
 
 <!--STATS:START-->
 ```console
 xerass@github:~$ gh profile --summary
 
-  (waiting for first workflow run — Actions tab → "Update README stats" → Run workflow)
 ```
 <!--STATS:END-->
 
