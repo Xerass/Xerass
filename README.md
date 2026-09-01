@@ -101,13 +101,13 @@ xerass@github:~$ gh profile --summary
   repos     27 public (non-fork)
   stars     0   forks 2
   followers 2   following 2
-  synced    2026-08-31 09:43 UTC
+  synced    2026-09-01 08:38 UTC
 
  LANGUAGES ─────────────────────────────────────────────────────
 
 xerass@github:~$ gh langs --top 8 --exclude jupyter
 
-  Python      █████████████░░░░░░░░░░░░░   51.8%   506.6 KB
+  Python      █████████████░░░░░░░░░░░░░   51.9%   507.8 KB
   TypeScript  ██████░░░░░░░░░░░░░░░░░░░░   24.4%   238.6 KB
   C           ████░░░░░░░░░░░░░░░░░░░░░░   13.7%   134.1 KB
   Cuda        ██░░░░░░░░░░░░░░░░░░░░░░░░    6.1%    59.8 KB
@@ -123,7 +123,6 @@ xerass@github:~$ gh langs --top 8 --exclude jupyter
 
 xerass@github:~$ gh contrib --since 12mo --graph monthly
 
-  Sep 2025  █████████████░░░░░░░░░░░░░    46
   Oct 2025  ██████████░░░░░░░░░░░░░░░░    34
   Nov 2025  ███████████████░░░░░░░░░░░    53
   Dec 2025  █████████████████████░░░░░    74
@@ -134,9 +133,10 @@ xerass@github:~$ gh contrib --since 12mo --graph monthly
   May 2026  ██████████████████░░░░░░░░    63
   Jun 2026  ████████████████████████░░    83
   Jul 2026  ████████████████████░░░░░░    70
-  Aug 2026  ███████████░░░░░░░░░░░░░░░    37
+  Aug 2026  ███████████░░░░░░░░░░░░░░░    38
+  Sep 2026  █░░░░░░░░░░░░░░░░░░░░░░░░░     2
 
-  total 765 contributions   commits 701   PRs 8   issues 0
+  total 768 contributions   commits 704   PRs 8   issues 0
   busiest day  2026-04-29  (15)
 ```
 <!--STATS:END-->
