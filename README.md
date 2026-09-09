@@ -147,7 +147,7 @@ xerass@github:~$ gh contrib --since 12mo --graph monthly
 xerass@github:~$ ./status.sh
 
   status   currently vibing out
-  now      shipping things that run outside a notebook
+  now      existing
   reach    github.com/Xerass
 
 xerass@github:~$ █
